@@ -1,0 +1,2 @@
+export const TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjM5LCJpYXQiOjE2NDU4MTgyMTgsInJvbCI6ImRpc3RyaWJ1aWRvciJ9.zcxMSyoDm3HdJuJ0oLn387FDvzFmQ209dy7q5blzmI4';
+export const API = 'https://testing-1.api.encamino.ar/distribuidor/entregas';
